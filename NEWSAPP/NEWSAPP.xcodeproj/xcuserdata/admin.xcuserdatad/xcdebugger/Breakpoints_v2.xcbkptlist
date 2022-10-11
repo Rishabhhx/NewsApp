@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9CDB1303-C746-4595-97C3-6988A8C21183"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D0B99F61-60C3-41C7-B1E8-A74392A667D7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NEWSAPP/NewsCollectionViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "NewsCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D0B99F61-60C3-41C7-B1E8-A74392A667D7 - 9f36e702719ea2dd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NEWSAPP.NewsCollectionViewCell.buttonPressedClosure.getter : Swift.Optional&lt;(Swift.Bool) -&gt; ()&gt;"
+                  moduleName = "NEWSAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/Trainning%20/SwiftPlayground/UIUXVIew/NEWSAPP/NEWSAPP/NewsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "103">
+               </Location>
+               <Location
+                  uuid = "D0B99F61-60C3-41C7-B1E8-A74392A667D7 - 6fa863963978aac9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NEWSAPP.NewsCollectionViewCell.buttonPressedClosure.setter : Swift.Optional&lt;(Swift.Bool) -&gt; ()&gt;"
+                  moduleName = "NEWSAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/Trainning%20/SwiftPlayground/UIUXVIew/NEWSAPP/NEWSAPP/NewsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "141">
+               </Location>
+               <Location
+                  uuid = "D0B99F61-60C3-41C7-B1E8-A74392A667D7 - 59d600d11e2d3244"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NEWSAPP.NewsCollectionViewCell.buttonPressedClosure.modify : Swift.Optional&lt;(Swift.Bool) -&gt; ()&gt;"
+                  moduleName = "NEWSAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/Trainning%20/SwiftPlayground/UIUXVIew/NEWSAPP/NEWSAPP/NewsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  uuid = "D0B99F61-60C3-41C7-B1E8-A74392A667D7 - 429ada3e7f6ce0d2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NEWSAPP.NewsCollectionViewCell.buttonPressedClosure.modify : Swift.Optional&lt;(Swift.Bool) -&gt; ()&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "NEWSAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/Trainning%20/SwiftPlayground/UIUXVIew/NEWSAPP/NEWSAPP/NewsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "D0B99F61-60C3-41C7-B1E8-A74392A667D7 - 1dfb2c2aca0b69f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NEWSAPP.NewsCollectionViewCell.init(frame: __C.CGRect) -&gt; NEWSAPP.NewsCollectionViewCell"
+                  moduleName = "NEWSAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/Trainning%20/SwiftPlayground/UIUXVIew/NEWSAPP/NEWSAPP/NewsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "226">
+               </Location>
+               <Location
+                  uuid = "D0B99F61-60C3-41C7-B1E8-A74392A667D7 - 66f9df537253ff3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NEWSAPP.NewsCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;NEWSAPP.NewsCollectionViewCell&gt;"
+                  moduleName = "NEWSAPP"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Documents/Trainning%20/SwiftPlayground/UIUXVIew/NEWSAPP/NEWSAPP/NewsCollectionViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "155">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFE8BC6A-8541-44CB-A36C-3772E2F94FB9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NEWSAPP/JustForYouSeeMoreViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
